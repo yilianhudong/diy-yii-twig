@@ -15,13 +15,13 @@ The preferred way to install the Yii framework is through [composer](http://getc
 Either run
 
 ```
-composer require yilianhudong/diy-yii-queue
+composer require yilianhudong/diy-yii-twig
 ```
 
 or add
 
 ```json
-"yilianhudong/diy-yii-queue": "~1.0.0",
+"yilianhudong/diy-yii-twig": "~1.0.0",
 ```
 
 to the require section of your composer.json.
